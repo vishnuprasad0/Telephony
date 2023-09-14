@@ -1,7 +1,8 @@
+import "package:another_telephony/telephony.dart";
 import "package:flutter/services.dart";
 import "package:flutter_test/flutter_test.dart";
 import "package:platform/platform.dart";
-import "package:telephony/telephony.dart";
+
 import 'mocks/messages.dart';
 
 main() {

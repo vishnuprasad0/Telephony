@@ -1,3 +1,5 @@
+## 0.2.1
+* Fix receiver message in background 
 ## 0.2.0
 * Upgrade `minSdk` to 23
 * Upgrade `targetSdk` to 31

@@ -5,7 +5,7 @@ import "package:flutter_test/flutter_test.dart";
 import 'package:mockito/annotations.dart';
 import "package:mockito/mockito.dart";
 import "package:platform/platform.dart";
-import "package:telephony/telephony.dart";
+import "package:another_telephony/telephony.dart";
 import 'package:collection/collection.dart';
 
 import 'mocks/messages.dart';

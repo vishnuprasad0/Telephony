@@ -10,7 +10,7 @@
 
 # Telephony
 
-## Thank you for checking out the Telephony plugin. Unfortunately, this plugin is no longer actively maintained.
+## We create this fork because the [original package](https://github.com/shounakmulay/Telephony) is not maintained anymore. We will try to keep this package up to date with the latest Flutter version.
 
 |:exclamation: This plugin currently only works on Android Platform|
 |------------------------------------------------------------------|

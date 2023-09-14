@@ -1,7 +1,7 @@
-name: telephony
+name: another_telephony
 description: A Flutter plugin to use telephony features such as fetch network
   info, start phone calls, send and receive SMS, and listen for incoming SMS.
-version: 0.2.0
+version: 0.2.1
 homepage: https://telephony.shounakmulay.dev
 repository: https://github.com/shounakmulay/Telephony
 
@@ -18,7 +18,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   build_runner: ^2.1.10
-  collection: ^1.16.0
+  collection: ^1.17.2
   mockito: ^5.2.0
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
