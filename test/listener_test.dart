@@ -17,14 +17,14 @@ main() {
     methodChannel = MethodChannel("testChannel");
     telephony = Telephony.private(
         methodChannel, FakePlatform(operatingSystem: "android"));
-    methodChannel.setMockMethodCallHandler((call) {
-      log.add(call);
-      return telephony.handler(call);
-    });
+    // methodChannel.setMockMethodCallHandler((call) {
+    //   log.add(call);
+    //   return telephony.handler(call);
+    // });
   });
 
   tearDown(() {
-    methodChannel.setMockMethodCallHandler(null);
+    // methodChannel.setMockMethodCallHandler(null);
     log.clear();
   });
 
