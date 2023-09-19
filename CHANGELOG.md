@@ -1,3 +1,5 @@
+## 0.2.3
+* Update dev library version
 ## 0.2.2
 * Update README.md
 ## 0.2.1
